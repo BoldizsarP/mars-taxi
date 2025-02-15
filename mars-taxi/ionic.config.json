@@ -1,0 +1,7 @@
+{
+  "name": "Mars Taxi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
